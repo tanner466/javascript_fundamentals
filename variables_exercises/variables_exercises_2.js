@@ -1,6 +1,6 @@
-var current_year = 2016;
-var birth_year = 1991;
+var currentYear = 2016;
+var birthYear = 1991;
 
-ages = [(current_year - 1 - birth_year), (current_year - birth_year)];
+ages = [(currentYear - 1 - birthYear), (currentYear - birthYear)];
 
-console.log ("They are either " + ages[0] + " or " + ages[1] + ".");
+console.log ("You are either " + ages[0] + " or " + ages[1] + ".");
